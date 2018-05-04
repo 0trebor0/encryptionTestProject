@@ -1,0 +1,5 @@
+{
+    "serverPort" : "4317",
+    "hashKey" : "njdsah4y32786438y4786f78rtg87423686",
+    "algorithm" : "aes-256-cbc"
+}
